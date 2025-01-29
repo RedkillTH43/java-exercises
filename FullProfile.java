@@ -1,4 +1,5 @@
 import java.util.Scanner;
+import System.out.print as sop;
 
 public class FullProfile
 {
